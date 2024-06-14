@@ -1,4 +1,4 @@
-# VueJS & TailwindCSS - Dark Mode - Responsive Mobile
+# VueJS & Tailwind CSS - Dark Mode - Responsive Mobile
 
 -   Simple and responsive design
 -   [Vue.js v3](https://vuejs.org) with [Vue Router](https://router.vuejs.org)
@@ -17,9 +17,9 @@
 -   Download file button
 
 # RUN
-`npm install`
-`npm run serve`
-`http://localhost:8080`
+- `npm install`
+- `npm run serve`
+- `http://localhost:8080`
 
 
 ## Notes
